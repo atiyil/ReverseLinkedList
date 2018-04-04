@@ -26,4 +26,6 @@ Install Ruby 2.3 or later
 * Add links to the any app related documentation here
 
 ## TO-DO List
+* Define a class as LinkedList to include reverseList() 
+  and other list functions in a separate file
 * Add tests to improve code quality and maintainability
