@@ -1,4 +1,4 @@
-require './linkedlist/linkedlist'
+require './linkedlist/node'
 
 x = Node.new(1,nil)
 y = Node.new(2,x)
